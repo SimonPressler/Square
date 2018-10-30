@@ -1,0 +1,13 @@
+Package: Square
+Title: Squaring a single number 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Simon",
+           family = "Pressler",
+           role = c("aut", "cre"),
+           email = "simonpr@student.ethz.ch")
+Description: This package squares a single number and is only created for educational purposes to learn how to write a package and upload it to GitHub. 
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
